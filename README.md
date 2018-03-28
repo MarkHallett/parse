@@ -6,6 +6,7 @@ The app test.py requires 3 data file stored in a directory. Example data files a
 <p><b> python test.py </b>
 
 This will produce the following out put for the three example files given
+![Alt text](/parse_output.png?raw=true "parse_output")
 
 
  
